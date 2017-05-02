@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LookAndFeel</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="clear">Clear</string>
+    <string name="submit">Submit</string>
+    <string name="animating">UWT</string>
+</resources>
